@@ -3,7 +3,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Analise e Desenvolvimento de Sistemas no Unisenai.
 - 💼 Trabalhando como FullStack na WEG.
-- 🌱 Aprendendo mais sobre UI/UX.
+- 🌱 Aprendendo mais sobre IA.
 
 ## Minhas Skills
 
