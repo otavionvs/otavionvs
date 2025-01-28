@@ -1,7 +1,7 @@
 ### Sou Otavio, prazer!
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Analise e Desenvolvimento de Sistemas no Unisenai.
+- 🎓 Formado em Analise e Desenvolvimento de Sistemas.
 - 💼 Trabalhando como FullStack na WEG.
 - 🌱 Aprendendo mais sobre IA.
 
