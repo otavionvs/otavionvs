@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formado em Analise e Desenvolvimento de Sistemas.
-- 💼 Trabalhando como FullStack na WEG.
+- 💼 Trabalhando como Professor de Desenvolvimento de Sistemas no SENAI.
 - 🌱 Aprendendo mais sobre IA.
 
 ## Minhas Skills
