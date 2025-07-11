@@ -42,5 +42,6 @@
 
 <a href="https://github.com/otavionvs" title="Perfil do Otavio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otavionvs&theme=dracula&show_icons=true" />
+  <img width="325em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavionvs&layout=compact&theme=dracula" />
 </a>
 
