@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formado em Analise e Desenvolvimento de Sistemas.
-- 🎓 Mestrado em Computação Aplicada - UDESC (cursando)
+- 🎓 Mestrando em Computação Aplicada - UDESC
 - 💼 Trabalhando como Professor de Desenvolvimento de Sistemas no SENAI.
 - 🌱 Aprendendo mais sobre IA.
 
